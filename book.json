@@ -1,0 +1,62 @@
+{
+  "title": "Understanding Sockets",
+  "authors": [
+    {
+      "name": "Mark Mahoney",
+      "url": "https://github.com/markm208"
+    }
+  ],
+  "aiApiUrl": null,
+  "chapters": [
+    {
+      "title": "Sockets in Java",
+      "playbacks": [
+        {
+          "title": "Hello World in Java",
+          "slug": "hello-world-in-java",
+          "authors": [
+            {
+              "name": "Mark Mahoney",
+              "url": "https://github.com/markm208"
+            }
+          ]
+        },
+        {
+          "title": "Sockets in Java",
+          "slug": "sockets-in-java",
+          "authors": [
+            {
+              "name": "Mark Mahoney",
+              "url": "https://github.com/markm208"
+            }
+          ]
+        },
+        {
+          "title": "Designing an Instant Messenger Protocol with Java Sockets",
+          "slug": "designing-an-instant-messenger-protocol-with-java-",
+          "authors": []
+        }
+      ]
+    },
+    {
+      "title": "Sockets in C",
+      "playbacks": [
+        {
+          "title": "Sockets in C: TCP and UDP Echo",
+          "slug": "sockets-in-c-tcp-and-udp-echo",
+          "authors": []
+        },
+        {
+          "title": "Java-Style Socket Classes in C++",
+          "slug": "java-style-socket-classes-in-c",
+          "authors": []
+        },
+        {
+          "title": "Designing an Instant Messenger Protocol with C++ Sockets",
+          "slug": "designing-an-instant-messenger-protocol-with-c-soc",
+          "authors": []
+        }
+      ]
+    }
+  ]
+}
